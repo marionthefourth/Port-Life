@@ -7,4 +7,4 @@ $ git clone https://github.com/marionthefourth/port-life.git
 $ docker compose up
 ```
 
-Open [http://localhost:4200](http://localhost:4200) to view the Port Life Application on your Web Browser.
+Open [http://localhost:3000](http://localhost:3000) to view the Port Life Application on your Web Browser.
